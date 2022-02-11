@@ -79,7 +79,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
+Click the image for video
 
 [![Mobile Robot Video](https://github.com/RanjithD18/mobilerobot-openloopcontrol/blob/main/img/robot.jpeg)](https://youtu.be/KWXzbHweuFw)
 
