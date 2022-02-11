@@ -85,7 +85,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![Mobile Robot Video](https://youtu.be/KWXzbHweuFw)
+[![IMAGE ALT TEXT HERE](https://youtu.be/KWXzbHweuFw/0.jpg)](https://youtu.be/KWXzbHweuFw)
 
 <br/>
 <br/>
