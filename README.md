@@ -81,7 +81,7 @@ if _name_ == '_main_':
 
 Upload your video in Youtube and paste your video-id here
 
-[![Mobile Robot Video](https://youtu.be/KWXzbHweuFw/0.jpg)](https://youtu.be/KWXzbHweuFw)
+[![Mobile Robot Video](https://github.com/RanjithD18/mobilerobot-openloopcontrol/blob/main/img/robot.jpeg)](https://youtu.be/KWXzbHweuFw)
 
 <br/>
 <br/>
